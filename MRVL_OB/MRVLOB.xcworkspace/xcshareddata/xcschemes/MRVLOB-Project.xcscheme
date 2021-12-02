@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1010"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6AB8655B1BA556B45C132AB9"
+               BuildableName = "MRVLOB.app"
+               BlueprintName = "MRVLOB"
+               ReferencedContainer = "container:Projects/MRVLOB/MRVLOB.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D56E8A92852FAF49BC5EF3C1"
+               BuildableName = "MRVLOBCommon.framework"
+               BlueprintName = "MRVLOBCommon"
+               ReferencedContainer = "container:Projects/MRVLOBCommon/MRVLOBCommon.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BD71D89D73608CB67514CE6B"
+               BuildableName = "MRVLOBCommonTests.xctest"
+               BlueprintName = "MRVLOBCommonTests"
+               ReferencedContainer = "container:Projects/MRVLOBCommon/MRVLOBCommon.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "702CEE152F2B122ACC9EFBC8"
+               BuildableName = "MRVLOBKit.framework"
+               BlueprintName = "MRVLOBKit"
+               ReferencedContainer = "container:Projects/MRVLOBKit/MRVLOBKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "56FB4C56FB351655C1A5173D"
+               BuildableName = "MRVLOBKitTests.xctest"
+               BlueprintName = "MRVLOBKitTests"
+               ReferencedContainer = "container:Projects/MRVLOBKit/MRVLOBKit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2DB463B4DDB31E61EB2F05F0"
+               BuildableName = "MRVLOBTests.xctest"
+               BlueprintName = "MRVLOBTests"
+               ReferencedContainer = "container:Projects/MRVLOB/MRVLOB.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BD71D89D73608CB67514CE6B"
+               BuildableName = "MRVLOBCommonTests.xctest"
+               BlueprintName = "MRVLOBCommonTests"
+               ReferencedContainer = "container:Projects/MRVLOBCommon/MRVLOBCommon.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "56FB4C56FB351655C1A5173D"
+               BuildableName = "MRVLOBKitTests.xctest"
+               BlueprintName = "MRVLOBKitTests"
+               ReferencedContainer = "container:Projects/MRVLOBKit/MRVLOBKit.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2DB463B4DDB31E61EB2F05F0"
+               BuildableName = "MRVLOBTests.xctest"
+               BlueprintName = "MRVLOBTests"
+               ReferencedContainer = "container:Projects/MRVLOB/MRVLOB.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6AB8655B1BA556B45C132AB9"
+            BuildableName = "MRVLOB.app"
+            BlueprintName = "MRVLOB"
+            ReferencedContainer = "container:Projects/MRVLOB/MRVLOB.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6AB8655B1BA556B45C132AB9"
+            BuildableName = "MRVLOB.app"
+            BlueprintName = "MRVLOB"
+            ReferencedContainer = "container:Projects/MRVLOB/MRVLOB.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
